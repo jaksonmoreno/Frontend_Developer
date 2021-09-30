@@ -1,5 +1,5 @@
 # Frontend_Developer
-En este repositorio, estoy llevan las clases de el curso de Frontend Developer en HTML y CSS.
+En este repositorio, estoy llevando las clases de el curso de Frontend Developer en HTML y CSS.
 
 # Estilos en Cascada
 
