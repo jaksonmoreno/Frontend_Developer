@@ -14,3 +14,5 @@ Se crean los archivos display-2-flexbox.html y display-3-cssgrid.html para hacer
 # Octubre 01 - 2021
 
 Se crean los archivos modelo-de-caja.html y colapso-de-margenes.html, para trabajar justamente el modelo de caja y el colapso de margenes entre elementos, para lo que se uso display flex.
+
+Se crean los archivos posicionamiento.html, z-index.html y propiedades-mas-usadas.html, para trabajar justamente el posicionamiento, la superposición con z-index y realizar una card con las propiedades css más usadas.
